@@ -1,6 +1,6 @@
 ---
 title: Getting Started with Windows
-permalink: /guide/:title
+category: index
 ---
 
 ### Getting Started - Windows
