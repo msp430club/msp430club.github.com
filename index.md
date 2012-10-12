@@ -4,11 +4,11 @@ title: MSP430 Club
 ---
 
 
-        <h3>The MSP430 Club</h3>
+## The MSP430 Club
 
-<p>This site is for all things MSP430</p>
+This site is for all things MSP430
 
-<h4>The MSP430 Launchpad</h4>
+### The MSP430 Launchpad
 
 <p><a href="http://www.ti.com/ww/en/launchpad/msp430_head.html">TI Launchpad Site</a></p>
 
