@@ -10,14 +10,10 @@ This site is for all things MSP430
 
 ### The MSP430 Launchpad
 
-<p><a href="http://www.ti.com/ww/en/launchpad/msp430_head.html">TI Launchpad Site</a></p>
-
-<h4>Getting Started</h4>
+[TI Launchpad Site](http://www.ti.com/ww/en/launchpad/msp430_head.html")
 
 {{ site.posts.first.content }}
 
-</ol><h5>Linux (Debian wheezy)</h5>
+### Getting Started - Linux (Debian wheezy)
 
-<ol>
-<li>Install MSP430 Packages</li>
-</ol>
+1. Install MSP430 Packages
