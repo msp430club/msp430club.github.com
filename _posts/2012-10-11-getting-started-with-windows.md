@@ -1,8 +1,6 @@
 ---
-title: Getting Started with Windows
+title: Getting Started - Windows
 category: index
 ---
-
-### Getting Started - Windows
 
 1. Download and Install Code Composer Studio (Free)
